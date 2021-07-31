@@ -1,4 +1,4 @@
-## Olã! Eu sou o Lucas Migueis! 
+## Ola! Eu sou o Lucas Migueis! 
 
  <div>
   <a href="https://github.com/Luskaaa">
